@@ -1,0 +1,24 @@
+.corner-card-wrapper {
+  -webkit-box-shadow: 0px 2px 8px 5px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 2px 8px 5px rgba(0, 0, 0, 0.25);
+  width: 175px;
+  height: 175px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.corner-card-items {
+  -webkit-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+/*# sourceMappingURL=cornerCard.css.map */

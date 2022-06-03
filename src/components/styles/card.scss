@@ -1,0 +1,35 @@
+.card {
+  width: 130px;
+  height: 175px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: 5px;
+  text-align: center; 
+  box-shadow: 0px 2px 8px 5px rgba(0,0,0,0.25);
+
+  .header-text {
+    font-size: 18;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
+
+  .card-header {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgb(0, 119, 255);
+    text-align: center;
+  }
+
+  .material-icons {
+    font-size: 78px;
+    margin: 10px;
+  }
+
+  h2 {
+    margin: 0;
+    font-size: 18;
+  }
+}

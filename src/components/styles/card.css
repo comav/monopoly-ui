@@ -1,0 +1,37 @@
+.card {
+  width: 130px;
+  height: 175px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: 5px;
+  text-align: center;
+  -webkit-box-shadow: 0px 2px 8px 5px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 2px 8px 5px rgba(0, 0, 0, 0.25);
+}
+
+.card .header-text {
+  font-size: 18;
+  font-weight: bold;
+  color: white;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.card .card-header {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: #0077ff;
+  text-align: center;
+}
+
+.card .material-icons {
+  font-size: 78px;
+  margin: 10px;
+}
+
+.card h2 {
+  margin: 0;
+  font-size: 18;
+}
+/*# sourceMappingURL=card.css.map */

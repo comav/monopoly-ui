@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,oBAAoB,CAAC;EACnB,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,mBAAgB;EAC5C,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,aAAa,EAAE,IAAI;EACnB,gBAAgB,EAAE,IAAI;EACtB,MAAM,EAAE,GAAG;EACX,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;CACxB;;AAED,AAAA,kBAAkB,CAAC;EACjB,SAAS,EAAE,cAAc;CAC1B",
+    "sources": [
+        "cornerCard.scss"
+    ],
+    "names": [],
+    "file": "cornerCard.css"
+}
